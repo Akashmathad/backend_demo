@@ -1,0 +1,15 @@
+{
+  "name": "dsademo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "\t",
+    "start": "nodemon server.js"
+  },
+  "author": "Akash Mathad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
